@@ -9,7 +9,7 @@
 
 **An Interactive Educational Platform Demonstrating the Synergy of AI, IoT, and Big Data**
 
-[🚀 Quick Start](#-quick-start) • [📖 Documentation](#-documentation) • [✨ Features](#-features) • [🎯 Target Audience](#-target-audience)
+[🚀 Quick Start](#-quick-start) • [📖 Documentation](#-documentation) • [✨ Features](#-key-features) • [🎯 Target Audience](#-target-audience)
 
 </div>
 
@@ -200,7 +200,7 @@ Explore possibilities and build business cases for IoT/AI solutions
 
 ---
 
-## 🛠️ Technology Stack
+## 🧰 Technology Stack
 
 ### Frontend
 - **Next.js 14** - React framework with App Router
