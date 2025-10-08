@@ -1058,12 +1058,11 @@ location / {
 
 For deployment assistance:
 
-- 📧 Email: deploy@sinergi.dev
-- 💬 Discord: [#deployment-help](https://discord.gg/sinergi)
-- 📖 Docs: [docs.sinergi.dev/deployment](https://docs.sinergi.dev/deployment)
+- 📧 Email: support@elpeef.com
+- 🌐 Web: [ELPEEF](https://elpeef.com)
 
 ---
 
 **Deploy with Confidence! 🚀**
 
-Last Updated: 2024-01-15
+Last Updated: 2025-08-10
