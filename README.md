@@ -374,6 +374,8 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 **Built with ❤️ for the future of education**
 
+SINERGI - Smart Integration of AI, IoT, and Big Data; Version: 1.0.0
+
 [⬆ Back to Top](#-sinergi---ai-iot--big-data-learning-platform)
 
 </div>
