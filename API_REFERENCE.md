@@ -814,10 +814,9 @@ class RealtimeConnection {
 
 For API-related questions:
 
-- 📧 Email: api@sinergi.dev
-- 📖 Docs: [docs.sinergi.dev/api](https://docs.sinergi.dev/api)
-- 💬 Discord: [#api-support](https://discord.gg/sinergi)
+- 📧 Email: support@elpeef.com
+- 🌐 Web: [ELPEEF](https://elpeef.com)
 
 ---
 
-**Last Updated:** 2024-01-15
+**Last Updated:** 2025-08-10
