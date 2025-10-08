@@ -879,9 +879,9 @@ chore: update dependencies
 
 For technical questions or issues:
 
-- 📧 Email: dev@sinergi.dev
-- 💬 Discord: [Developer Channel](https://discord.gg/sinergi-dev)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/sinergi/issues)
+- 📧 Email: support@elpeef.com
+- 🌐 Web: [ELPEEF](https://elpeef.com)
+- 🐛 Issues: [GitHub Issues](https://github.com/mrbrightsides/sinergi/issues)
 
 ---
 
